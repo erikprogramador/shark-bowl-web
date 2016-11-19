@@ -38,7 +38,7 @@ of using the issue tracker.
 ## Credits
 
 - [William Espindola][link-author]
-- [All Contributors][link-contributors]
+  - [All Contributors][link-contributors]
 
 ## License
 
